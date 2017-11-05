@@ -1,5 +1,9 @@
 import java.util.*;
 
+
+
+
+
 public class BinaryTreePaths {
 	public static void main(String args[]) {
 		TreeNode node = new TreeNode(20);// 如果不new的话在一个函数体内对这些变量难道没有初始化吗，但是记得在类中的变量java是给予初始化的
